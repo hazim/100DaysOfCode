@@ -19,13 +19,13 @@ Math.ceil() rounds the number up, towards the ceiling
 ## Day 3 
 Today was completely focused on __Markdown__. This is such a useful tool. It gives me the power to revisit the previous two days note and amend them for if to be more useful. 
 
-* * / _ _ italic
-** ** / __ __ bold
-~~ ~~ strike through 
-# h1
-## h2 and so on 
-[ ] for adding hyperlink for the text inside the square brackets 
-[ ]( ) you put the hyperlink inside the brackets
+- * * / _ _ italic
+- ** ** / __ __ bold
+- ~~ ~~ strike through 
+- # h1
+- ## h2 and so on 
+- [ ] for adding hyperlink for the text inside the square brackets 
+- [ ]( ) you put the hyperlink inside the brackets
 < > to transform the text inside into hyperlink 
 ( "") inside the quotation marks, you should place descripton information that shows up when you hver the text.
 [ ][ ]it is similar 
