@@ -22,8 +22,8 @@ Today was completely focused on __Markdown__. This is such a useful tool. It giv
 - * * / _ _ italic
 - ** ** / __ __ bold
 - ~~ ~~ strike through 
-- # h1
-- ## h2 and so on 
+- # 
+- ##  
 - [] for adding hyperlink for the text inside the square brackets 
 - []() you put the hyperlink inside the brackets
 - < > to transform the text inside into hyperlink 
