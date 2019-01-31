@@ -28,6 +28,6 @@ Today was completely focused on __Markdown__. This is such a useful tool. It giv
 - []() you put the hyperlink inside the brackets
 - < > to transform the text inside into hyperlink 
 - ( "") inside the quotation marks, you should place descripton information that shows up when you hver the text.
-- [ ][ ]it is similar 
+- [][]it is similar 
 - ![]() 
 - ``` ``` for creating blocks
