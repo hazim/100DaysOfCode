@@ -157,3 +157,19 @@ He really is.
 [1]:http://www.hazimsami.com "Testing title"
 [flower]:https://images.unsplash.com/photo-1464820453369-31d2c0b651af?ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80
 [random]:https://picsum.photos/800/500/?image=321
+
+
+## Day 05
+
+Today I have been focusing on JavaScript afte completeing the Markdown cours. It was fantastic. 
+* [x] Comparison Operator
+* [ ] Boolean 
+* [x] Condition 
+
+|Symbol | Key |
+|:------|:----|
+| === | the strict equal to operator |
+| == | Equal to !
+| != ! Not equal to |
+| !== | Strict Not equal to !
+
