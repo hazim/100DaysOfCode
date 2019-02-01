@@ -160,8 +160,9 @@ He really is.
 
 
 ## Day 05
+JavaScript Treehouse JavaScript Basic by Dave McFarland
 
-Today I have been focusing on JavaScript afte completeing the Markdown cours. It was fantastic. 
+JavaScript topics covered today, 
 * [x] Comparison Operator
 * [ ] Boolean 
 * [x] Condition 
@@ -170,6 +171,9 @@ Today I have been focusing on JavaScript afte completeing the Markdown cours. It
 |:------|:----|
 | === | the strict equal to operator |
 | == | Equal to !
-| != ! Not equal to |
-| !== | Strict Not equal to !
+| != | Not equal to |
+| !== | Strict Not equal to |
+
+I have made the following, 
+* [x] Guess the number game [CodePen]( "visit the game")
 
