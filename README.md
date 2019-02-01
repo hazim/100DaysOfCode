@@ -175,5 +175,5 @@ JavaScript topics covered today,
 | !== | Strict Not equal to |
 
 I have made the following, 
-* [x] Guess the number game [CodePen]( "visit the game")
+* [x] Guess the number game [CodePen](http://www.codepen.com "visit the game")
 
