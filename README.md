@@ -63,7 +63,7 @@ I have made the following,
 ## Day 06 
 
 Did some tiding up with around here as I combined my two Markdown classes into a single cheat sheet.  
-[Markdown Cheat Sheet](/hazim/Markdown-Cheat-Sheet)  
+[Markdown Cheat Sheet](https://github.com/hazim/Markdown-Cheat-Sheet)  
 
 Progresses with JavaScript and completed a section on  
 * [x] Conditional Statments  
