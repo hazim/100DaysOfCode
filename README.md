@@ -66,8 +66,8 @@ Did some tiding up with around here as I combined my two Markdown classes into a
 [Markdown Cheat Sheet](/Markdown-Cheat-Sheet)  
 
 Progresses with JavaScript and completed a section on  
-[x] Conditional Statments  
-[x] Comparison Operators  
+* [x] Conditional Statments  
+* [x] Comparison Operators  
 
 Need to start building things on CodePen in order to link it to my progress. Also need to start tweeting with #100DaysOfCoding but don't want to commit before knowing how work will turn out. 
 
