@@ -9,12 +9,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 DRY programming (Don't Repeat Yourself) concept in programing. 
 The Math Object https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math 
 
+---
 
 ## Day 02
 Math.random() for a number between 0 - 1 (upto but not including 1)
 Math.floor() rounds the number down, towards the floor
 Math.ceil() rounds the number up, towards the ceiling 
 
+---
 
 ## Day 3 
 Today was completely focused on __Markdown__. This is such a useful tool. It gives me the power to revisit the previous two days note and amend them for if to be more useful. 
@@ -36,6 +38,7 @@ Today was completely focused on __Markdown__. This is such a useful tool. It giv
 ## Day 4
 Completed Wes Bos's class on Markdown. 
 
+---
 
 ## Day 05
 JavaScript Treehouse JavaScript Basic by Dave McFarland
@@ -55,9 +58,19 @@ JavaScript topics covered today,
 I have made the following, 
 * [x] Guess the number game [CodePen](http://www.codepen.com "visit the game")
 
+---
+
 ## Day 06 
 
-Did some tiding up with my code and around here.
+Did some tiding up with around here as I combined my two Markdown classes into a single cheat sheet.  
+[Markdown Cheat Sheet](/Markdown-Cheat-Sheet)  
 
-[Markdown Cheat Sheet](Markdown-Cheat-Sheet)
+Progresses with JavaScript and completed a section on  
+[x] Conditional Statments  
+[x] Comparison Operators  
+
+Need to start building things on CodePen in order to link it to my progress. Also need to start tweeting with #100DaysOfCoding but don't want to commit before knowing how work will turn out. 
+
+---
+
 
