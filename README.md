@@ -75,7 +75,7 @@ Need to start building things on CodePen in order to link it to my progress. Als
 
 ## Day 07  
 
-Completed the following
+Completed the following  
 [x] *Treehouse* [Practice File Paths](https://teamtreehouse.com/library/practice-file-paths)  
 
 Got started with this class  
